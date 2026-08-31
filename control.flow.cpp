@@ -53,7 +53,7 @@ int main () {
 
          }
         else {
-            cout << "bhai tujhse na hopaega"<< endl;
+            cout << "bhai tujhse na hoyaega"<< endl;
         }
 
   }

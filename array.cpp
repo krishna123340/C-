@@ -40,7 +40,7 @@ using namespace std;
     //     cout << "Enter the value for arr[" << index << "] : ";
     //     cin >> arr[index];
     //     cout << endl;
-    // }
+    //}
 
     
     // for(int index = 0; index <= 4; index++) {
